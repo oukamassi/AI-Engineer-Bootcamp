@@ -1,0 +1,13 @@
+prenom = input("entrer votre prenom :")
+nom = input("entrer votre nom :")
+age = input("entrer votre age :")
+pays = input("entrer votre pays :")
+
+print("=" * 25)
+print(" Student Profil ")
+print("=" * 25)
+print("Nom : ",nom)
+print("Prenom : ",prenom)
+print("Pays : ",pays)
+print("Age : ",age)
+print("Dans 5 ans tu auras ...")
